@@ -31,8 +31,4 @@ __NOTE__: This guide has been tested and confirmed working using Prism Launcher 
 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+UseCompactObjectHeaders -XX:+UseZGC
 ```
 
-12. Navigate to "Mods" on the left-hand pane
-13. Search for "Tan's Huge Trees" (__NOT__ Tan's Huge Fast Trees, that's a different mod)
-14. Disable it by clicking the ticked box in the mod entry
-
 You're done, now run the game and enjoy :) If you have any suggestions, feel free to open an issue or pull request.
