@@ -13,6 +13,7 @@ __NOTE__: This guide has been tested and confirmed working using Prism Launcher 
 8. In the web browser, open each tab and the download for each missing mod will automatically start.
 9. Wait for the rest of the modpack download to finish
 10. On the "Select Optional Mods" popup, __do not__ enable Tan's Huge Trees. It will prevent the modpack from loading.
+    - If you did enable it by mistake, just disable it from the mods menu after the install is finished.
 
 ## Setting up the modpack
 1. Once the download is completed, right click on the Au Naturel icon on the Prism Laucher main menu
