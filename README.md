@@ -18,13 +18,14 @@ __NOTE__: This guide has been tested and confirmed working using Prism Launcher 
 2. Select "Edit"
 3. Select "Settings" in the left-hand pane
 4. Select to the Java tab
-5. Tick "Skip Java compatibility checks"
-6. Select "Detect" and choose the 25.02 JRE
-7. Tick "Memory"
-8. Set "Maximum Memory Usage" to "16000"
-9. Set PermGen Size to "512"
-10. Tick "Java Arguments"
-11. Copy and paste this string into the box:
+5. Tick "Java Installation"
+6. Tick "Skip Java compatibility checks"
+7. Select "Detect" and choose the 25.02 JRE
+8. Tick "Memory"
+9. Set "Maximum Memory Usage" to "16000"
+10. Set PermGen Size to "512"
+11. Tick "Java Arguments"
+12. Copy and paste this string into the box:
 
 ```
 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+UseCompactObjectHeaders -XX:+UseZGC
