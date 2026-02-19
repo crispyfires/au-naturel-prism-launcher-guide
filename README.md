@@ -12,6 +12,7 @@ __NOTE__: This guide has been tested and confirmed working using Prism Launcher 
 7. A pop-up saying "Blocked mods found" should show up – these mods you must download manually. Select "open missing" in the bottom-left of the pop-up to open these in a web browser.
 8. In the web browser, open each tab and the download for each missing mod will automatically start.
 9. Wait for the rest of the modpack download to finish
+10. On the "Select Optional Mods" popup, __do not__ enable Tan's Huge Tree's. It will prevent the modpack from loading.
 
 ## Setting up the modpack
 1. Once the download is completed, right click on the Au Naturel icon on the Prism Laucher main menu
