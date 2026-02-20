@@ -1,6 +1,6 @@
 __DISCLAIMER__: This guide is not affiliated with the developers of the Au Naturel modpack in any way. If there is anything wrong with this guide, please open an issue here instead of asking them for support.
 
-__NOTE__: This guide has been tested and confirmed working using Prism Launcher 10.0.5 and Eclipse Temurin JRE 25.0.2. I will __not__ be supporting older JRE versions.
+__NOTE__: This guide has been tested and confirmed working using Prism Launcher 10.0.5 and Eclipse Temurin JRE 25.0.2. I will __not__ be supporting older JRE or Prism Launcher versions.
 
 ## Downloading the modpack
 1. Open Prism Launcher
